@@ -1,0 +1,7 @@
+{
+  "type": "container",
+  "title": "bigdata-cassandra",
+  "description": "Cassandra database",
+  "logo": "https://cloudinovasi.id/assets/img/logos/nginx.png",
+  "image": "bigdatalabs/cassandra:3.0"
+}
