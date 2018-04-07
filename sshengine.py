@@ -8,8 +8,6 @@
 #
 # Author:           ANUSE
 # Created:          27/03/2015
-# Copyright:        (c) Barco 2015
-# Licence:          All Rights Reserved
 # ==============================================================================
 # Extra used pypi modules which may need to be installed:
 #
